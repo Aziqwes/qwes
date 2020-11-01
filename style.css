@@ -52,7 +52,9 @@ color: #FFEEED;
 }
 h2:hover{
     color:black ;
+    transition: 0.8s;
 }
 h1:hover{
     color: black;
+    transition: 0.8s;
 }
