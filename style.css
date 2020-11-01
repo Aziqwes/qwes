@@ -1,6 +1,6 @@
 
 body{
-
+padding: 0px;
 margin: 0px;
 }
 .header{
@@ -31,7 +31,7 @@ color: white;
 .main{
 background-color: #71B31B ;
 padding-top:10px ;
-width: 1600px;
+width: 100%;
 height: 500px;
 display: flex;
 align-items: center;
@@ -46,7 +46,7 @@ line-height: 5px;
 background-color: #99D26B;
 text-align: center;
 justify-content: center;
-width: 589px;
+width: 60%;
 padding-top:210px ;
 }
 .sidebar_text{
